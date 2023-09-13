@@ -1,0 +1,5 @@
+C:\Vinu\Projects\restaurant-automation\restaurant-automation\obj\Debug\net6.0\restaurant-automation.csproj.AssemblyReference.cache
+C:\Vinu\Projects\restaurant-automation\restaurant-automation\obj\Debug\net6.0\restaurant-automation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vinu\Projects\restaurant-automation\restaurant-automation\obj\Debug\net6.0\restaurant-automation.AssemblyInfoInputs.cache
+C:\Vinu\Projects\restaurant-automation\restaurant-automation\obj\Debug\net6.0\restaurant-automation.AssemblyInfo.cs
+C:\Vinu\Projects\restaurant-automation\restaurant-automation\obj\Debug\net6.0\restaurant-automation.csproj.CoreCompileInputs.cache

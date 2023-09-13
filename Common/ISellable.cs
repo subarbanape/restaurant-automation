@@ -1,0 +1,14 @@
+﻿using RestaurantAutomation.PriceBook;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace RestaurantAutomation.Common
+{
+    public interface ISellable
+    {
+        Price Price { get; }
+    }
+}
